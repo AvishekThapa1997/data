@@ -1,5 +1,4 @@
-{
-  "events":[
+[
             {
               "id": "e1",
               "title": "Programming for everyone",
@@ -27,5 +26,5 @@
               "image": "images/extrovert-event.jpg",
               "isFeatured": true
             }
-      ] 
-}
+] 
+
